@@ -26,6 +26,10 @@
 		line-height: 1;
 	}
 
+	audio { 
+   		display:none;
+	}	
+
 	ol, ul {
 		list-style: none;
 	}
